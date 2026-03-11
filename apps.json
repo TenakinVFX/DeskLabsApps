@@ -99,7 +99,7 @@
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
-        }
+        },
         {
           "Id": "Test App",
           "Name": "Test app",
