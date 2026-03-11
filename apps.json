@@ -12,7 +12,7 @@
           "Category": "Media",
           "DownloadUrl": "https://github.com/TenakinVFX/DeskTube/releases/latest/download/DeskTube_Installer.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/desktube.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube.png",
           "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PRODUCT_ID"
         },
@@ -24,7 +24,7 @@
           "Category": "Media",
           "DownloadUrl": "https://github.com/TenakinVFX/DeskTubePlayer/releases/latest/download/DeskTubePlayer-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/desktube-player.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube-player.png",
           "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PLAYER_PRODUCT_ID"
         },
@@ -36,7 +36,7 @@
           "Category": "Media",
           "DownloadUrl": "https://github.com/TenakinVFX/Lyriq/releases/latest/download/Lyriq-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/lyriq.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lyriq.png",
           "Paid": true,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYRIQ_PRODUCT_ID"
         }
@@ -54,7 +54,7 @@
           "Category": "Productivity",
           "DownloadUrl": "https://github.com/TenakinVFX/Structura/releases/latest/download/Structura-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/structura.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/structura.png",
           "Paid": true,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/STRUCTURA_PRODUCT_ID"
         },
@@ -66,7 +66,7 @@
           "Category": "Productivity",
           "DownloadUrl": "https://github.com/TenakinVFX/DeskNest/releases/latest/download/DeskNest-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/desknest.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desknest.png",
           "Paid": true,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID"
         },
@@ -78,7 +78,7 @@
           "Category": "Productivity",
           "DownloadUrl": "https://github.com/TenakinVFX/Lynkr/releases/latest/download/Lynkr-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/lynkr.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lynkr.png",
           "Paid": true,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYNKR_PRODUCT_ID"
         }
@@ -96,22 +96,10 @@
           "Category": "Utilities",
           "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora-Setup.exe",
           "SilentArgs": "/S",
-          "IconPath": "Icons/icora.png",
+          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
-        },
-        {
-  "Id": "myapp",
-  "Name": "MyApp",
-  "Description": "Short description here.",
-  "Version": "1.0.0",
-  "Category": "Utilities",
-  "DownloadUrl": "https://github.com/TenakinVFX/MyApp/releases/latest/download/MyApp-Setup.exe",
-  "SilentArgs": "/S",
-  "IconPath": "Icons/myapp.png",
-  "Paid": true,
-  "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/YOUR_PRODUCT_ID"
-}
+        }
       ]
     }
   ]
