@@ -1,0 +1,106 @@
+{
+  "Categories": [
+    {
+      "Name": "Media",
+      "Emoji": "🎬",
+      "Apps": [
+        {
+          "Id": "desktube",
+          "Name": "DeskTube",
+          "Description": "YouTube & general video downloader.",
+          "Version": "1.0.0",
+          "Category": "Media",
+          "DownloadUrl": "https://github.com/TenakinVFX/DeskTube/releases/latest/download/DeskTube_Installer.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/desktube.png",
+          "Paid": false,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PRODUCT_ID"
+        },
+        {
+          "Id": "desktube-player",
+          "Name": "DeskTube Player",
+          "Description": "Always-on-top YouTube player.",
+          "Version": "1.0.0",
+          "Category": "Media",
+          "DownloadUrl": "https://github.com/TenakinVFX/DeskTubePlayer/releases/latest/download/DeskTubePlayer-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/desktube-player.png",
+          "Paid": false,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PLAYER_PRODUCT_ID"
+        },
+        {
+          "Id": "lyriq",
+          "Name": "Lyriq",
+          "Description": "Songwriting app for crafting lyrics.",
+          "Version": "1.0.0",
+          "Category": "Media",
+          "DownloadUrl": "https://github.com/TenakinVFX/Lyriq/releases/latest/download/Lyriq-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/lyriq.png",
+          "Paid": true,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYRIQ_PRODUCT_ID"
+        }
+      ]
+    },
+    {
+      "Name": "Productivity",
+      "Emoji": "⚡",
+      "Apps": [
+        {
+          "Id": "structura",
+          "Name": "Structura",
+          "Description": "Build and visualise folder structures.",
+          "Version": "1.0.0",
+          "Category": "Productivity",
+          "DownloadUrl": "https://github.com/TenakinVFX/Structura/releases/latest/download/Structura-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/structura.png",
+          "Paid": true,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/STRUCTURA_PRODUCT_ID"
+        },
+        {
+          "Id": "desknest",
+          "Name": "DeskNest",
+          "Description": "Group files, links, apps & folders for quick access.",
+          "Version": "1.0.0",
+          "Category": "Productivity",
+          "DownloadUrl": "https://github.com/TenakinVFX/DeskNest/releases/latest/download/DeskNest-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/desknest.png",
+          "Paid": true,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID"
+        },
+        {
+          "Id": "lynkr",
+          "Name": "Lynkr",
+          "Description": "Bookmark manager for the desktop.",
+          "Version": "1.0.0",
+          "Category": "Productivity",
+          "DownloadUrl": "https://github.com/TenakinVFX/Lynkr/releases/latest/download/Lynkr-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/lynkr.png",
+          "Paid": true,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYNKR_PRODUCT_ID"
+        }
+      ]
+    },
+    {
+      "Name": "Utilities",
+      "Emoji": "🔧",
+      "Apps": [
+        {
+          "Id": "icora",
+          "Name": "Icora",
+          "Description": "Convert any image to .ico format.",
+          "Version": "1.0.0",
+          "Category": "Utilities",
+          "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora-Setup.exe",
+          "SilentArgs": "/S",
+          "IconPath": "Icons/icora.png",
+          "Paid": false,
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
+        }
+      ]
+    }
+  ]
+}
