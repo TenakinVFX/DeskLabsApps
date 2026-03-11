@@ -99,18 +99,6 @@
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
-        },
-        {
-          "Id": "Test App",
-          "Name": "Test app",
-          "Description": "Convert any image to .ico format.",
-          "Version": "1.0.0",
-          "Category": "Utilities",
-          "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora-Setup.exe",
-          "SilentArgs": "/S",
-          "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
-          "Paid": false,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
         }
       ]
     }
