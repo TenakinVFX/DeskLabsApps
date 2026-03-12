@@ -1,4 +1,11 @@
 {
+  "TagDefinitions": {
+    "Hot": "#e05555",
+    "Popular": "#e08c3a",
+    "New": "#55a855",
+    "Most Downloaded": "#9b59b6",
+    "Featured": "#4a9eff"
+  },
   "Categories": [
     {
       "Name": "Media",
@@ -14,7 +21,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube.png",
           "Paid": false,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PRODUCT_ID"
+          "StoreUrl": "",
+          "Tags": ["Hot", "Most Downloaded"]
         },
         {
           "Id": "desktube-player",
@@ -26,7 +34,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube-player.png",
           "Paid": false,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKTUBE_PLAYER_PRODUCT_ID"
+          "StoreUrl": "",
+          "Tags": []
         },
         {
           "Id": "lyriq",
@@ -38,7 +47,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lyriq.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYRIQ_PRODUCT_ID"
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYRIQ_PRODUCT_ID",
+          "Tags": ["Popular"]
         }
       ]
     },
@@ -56,7 +66,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/structura.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/STRUCTURA_PRODUCT_ID"
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/STRUCTURA_PRODUCT_ID",
+          "Tags": []
         },
         {
           "Id": "desknest",
@@ -68,7 +79,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desknest.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID"
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID",
+          "Tags": ["New"]
         },
         {
           "Id": "lynkr",
@@ -80,7 +92,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lynkr.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYNKR_PRODUCT_ID"
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYNKR_PRODUCT_ID",
+          "Tags": []
         }
       ]
     },
@@ -98,7 +111,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/ICORA_PRODUCT_ID"
+          "StoreUrl": "",
+          "Tags": ["Featured"]
         }
       ]
     }
