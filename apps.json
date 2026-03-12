@@ -4,7 +4,8 @@
     "Popular": "#e08c3a",
     "New": "#55a855",
     "Most Downloaded": "#9b59b6",
-    "Featured": "#4a9eff"
+    "Featured": "#4a9eff",
+    "LOL": "#4a9eff"
   },
   "Categories": [
     {
@@ -35,7 +36,7 @@
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube-player.png",
           "Paid": false,
           "StoreUrl": "",
-          "Tags": []
+          "Tags": ["LOL"]
         },
         {
           "Id": "lyriq",
