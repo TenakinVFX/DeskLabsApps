@@ -78,7 +78,7 @@
           "DownloadUrl": "https://github.com/TenakinVFX/DeskNest/releases/latest/download/DeskNest-Setup.exe",
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desknest.png",
-          "Paid": true,
+          "Paid": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID",
           "Tags": []
         },
