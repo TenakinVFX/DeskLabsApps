@@ -47,7 +47,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lyriq.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/LYRIQ_PRODUCT_ID",
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/e127c52e-4405-40d6-926b-01260b1e7cd9",
           "Tags": [ "Popular", "New" ]
         }
       ]
