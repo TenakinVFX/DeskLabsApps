@@ -107,7 +107,7 @@
           "Description": "Convert any image to .ico format.",
           "Version": "1.0.0",
           "Category": "Utilities",
-          "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora-Setup.exe",
+          "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora_Installer.exe",
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
