@@ -66,8 +66,8 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/structura.png",
           "Paid": true,
-          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/STRUCTURA_PRODUCT_ID",
-          "Tags": ["Featured"]
+          "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/b87f25ef-6f86-4381-9525-f9cb04f88d21",
+          "Tags": [ "Featured" ]
         },
         {
           "Id": "desknest",
