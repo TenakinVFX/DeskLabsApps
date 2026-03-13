@@ -88,7 +88,7 @@
           "Description": "Bookmark manager for the desktop.",
           "Version": "1.0.0",
           "Category": "Productivity",
-          "DownloadUrl": "https://github.com/TenakinVFX/Lynkr/releases/latest/download/Lynkr-Setup.exe",
+          "DownloadUrl": "https://github.com/TenakinVFX/Lynkr/releases/latest/download/Lynkr_Installer.exe",
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lynkr.png",
           "Paid": false,
