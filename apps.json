@@ -110,7 +110,7 @@
           "DownloadUrl": "https://github.com/TenakinVFX/Icora/releases/latest/download/Icora_Installer.exe",
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
-          "Paid": false,
+          "Paid": True,
           "StoreUrl": "",
           "Tags": []
         }
