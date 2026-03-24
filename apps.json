@@ -57,7 +57,7 @@
     },
     {
       "Name": "Productivity",
-      "Emoji": "⚡",
+      "Emoji": "",
       "Apps": [
         {
           "Id": "structura",
@@ -105,7 +105,7 @@
     },
     {
       "Name": "Utilities",
-      "Emoji": "🔧",
+      "Emoji": "",
       "Apps": [
         {
           "Id": "icora",
