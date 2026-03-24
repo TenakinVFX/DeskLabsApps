@@ -14,6 +14,7 @@
         {
           "Id": "desktube",
           "Name": "DeskTube",
+           "AccentColor": "#e05555",
           "Description": "YouTube & general video downloader.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -27,6 +28,7 @@
         {
           "Id": "desktube-player",
           "Name": "DeskTube Player",
+           "AccentColor": "#e05555",
           "Description": "Always-on-top YouTube player.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -40,6 +42,7 @@
         {
           "Id": "lyriq",
           "Name": "Lyriq",
+           "AccentColor": "#e05555",
           "Description": "Songwriting app for crafting lyrics.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -59,6 +62,7 @@
         {
           "Id": "structura",
           "Name": "Structura",
+           "AccentColor": "#e05555",
           "Description": "Build and visualise folder structures.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -72,6 +76,7 @@
         {
           "Id": "desknest",
           "Name": "DeskNest",
+           "AccentColor": "#e05555",
           "Description": "Group files, links, apps & folders for quick access.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -85,6 +90,7 @@
         {
           "Id": "lynkr",
           "Name": "Lynkr",
+           "AccentColor": "#e05555",
           "Description": "Bookmark manager for the desktop.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -104,6 +110,7 @@
         {
           "Id": "icora",
           "Name": "Icora",
+           "AccentColor": "#e05555",
           "Description": "Convert any image to .ico format.",
           "Version": "1.0.0",
           "Category": "Utilities",
