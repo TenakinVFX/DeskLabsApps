@@ -14,7 +14,7 @@
         {
           "Id": "desktube",
           "Name": "DeskTube",
-           "AccentColor": "#e05555",
+         
           "Description": "YouTube & general video downloader.",
           "Version": "1.0.0",
           "Category": "Media",
