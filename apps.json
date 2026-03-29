@@ -22,6 +22,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube.png",
           "Paid": false,
+          "RequiresLicence": false,
           "StoreUrl": "",
           "Tags": ["Hot", "Most Downloaded"]
         },
@@ -36,6 +37,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube-player.png",
           "Paid": false,
+          "RequiresLicence": false,
           "StoreUrl": "",
           "Tags": []
         },
@@ -50,6 +52,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lyriq.png",
           "Paid": true,
+          "RequiresLicence": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/e127c52e-4405-40d6-926b-01260b1e7cd9",
           "Tags": [ "Popular", "New" ]
         }
@@ -70,6 +73,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/structura.png",
           "Paid": true,
+          "RequiresLicence": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/b87f25ef-6f86-4381-9525-f9cb04f88d21",
           "Tags": [ "Featured" ]
         },
@@ -84,6 +88,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desknest.png",
           "Paid": false,
+          "RequiresLicence": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/DESKNEST_PRODUCT_ID",
           "Tags": []
         },
@@ -98,6 +103,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/lynkr.png",
           "Paid": false,
+          "RequiresLicence": false,
           "StoreUrl": "",
           "Tags": []
         }
@@ -118,6 +124,7 @@
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/icora.png",
           "Paid": false,
+          "RequiresLicence": false,
           "StoreUrl": "",
           "Tags": []
         }
