@@ -33,7 +33,7 @@
           "Description": "Always-on-top YouTube player.",
           "Version": "1.0.0",
           "Category": "Media",
-          "DownloadUrl": "https://github.com/TenakinVFX/DeskTubePlayer/releases/latest/download/DeskTubePlayer-Setup.exe",
+          "DownloadUrl": "https://github.com/TenakinVFX/DeskTubePlayer/releases/latest/download/DeskTube_Player_Installer.exe",
           "SilentArgs": "/S",
           "IconPath": "https://raw.githubusercontent.com/TenakinVFX/DeskLabsApps/main/Icons/desktube-player.png",
           "Paid": false,
