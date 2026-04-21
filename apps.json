@@ -122,8 +122,6 @@
         {
           "Id": "icora",
           "Name": "Icora",
-          "AccentColor": "#55a855",
-          "AccentSuffix": "ora",
           "Description": "Convert any image to .ico format.",
           "Version": "1.0.0",
           "Category": "Utilities",
