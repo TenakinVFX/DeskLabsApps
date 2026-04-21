@@ -14,7 +14,8 @@
         {
           "Id": "desktube",
           "Name": "DeskTube",
-         
+          "AccentColor": "#e05555",
+          "AccentSuffix": "Tube",
           "Description": "YouTube & general video downloader.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -29,7 +30,8 @@
         {
           "Id": "desktube-player",
           "Name": "DeskTube Player",
-           "AccentColor": "#e05555",
+          "AccentColor": "#e05555",
+          "AccentSuffix": "Player",
           "Description": "Always-on-top YouTube player.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -44,7 +46,8 @@
         {
           "Id": "lyriq",
           "Name": "Lyriq",
-           "AccentColor": "#e05555",
+          "AccentColor": "#2ea84a",
+          "AccentSuffix": "Q",
           "Description": "Songwriting app for crafting lyrics.",
           "Version": "1.0.0",
           "Category": "Media",
@@ -54,7 +57,7 @@
           "Paid": true,
           "RequiresLicence": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/e127c52e-4405-40d6-926b-01260b1e7cd9",
-          "Tags": [ "Popular", "New" ]
+          "Tags": ["Popular", "New"]
         }
       ]
     },
@@ -65,7 +68,8 @@
         {
           "Id": "structura",
           "Name": "Structura",
-           "AccentColor": "#e05555",
+          "AccentColor": "#1473e6",
+          "AccentSuffix": "ura",
           "Description": "Build and visualise folder structures.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -75,12 +79,13 @@
           "Paid": true,
           "RequiresLicence": false,
           "StoreUrl": "https://desklabs.lemonsqueezy.com/checkout/buy/b87f25ef-6f86-4381-9525-f9cb04f88d21",
-          "Tags": [ "Featured" ]
+          "Tags": ["Featured"]
         },
         {
           "Id": "desknest",
           "Name": "DeskNest",
-           "AccentColor": "#e05555",
+          "AccentColor": "#9b59b6",
+          "AccentSuffix": "Nest",
           "Description": "Group files, links, apps & folders for quick access.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -95,7 +100,8 @@
         {
           "Id": "lynkr",
           "Name": "Lynkr",
-           "AccentColor": "#e05555",
+          "AccentColor": "#e08c3a",
+          "AccentSuffix": "r",
           "Description": "Bookmark manager for the desktop.",
           "Version": "1.0.0",
           "Category": "Productivity",
@@ -116,7 +122,8 @@
         {
           "Id": "icora",
           "Name": "Icora",
-           "AccentColor": "#e05555",
+          "AccentColor": "#55a855",
+          "AccentSuffix": "ora",
           "Description": "Convert any image to .ico format.",
           "Version": "1.0.0",
           "Category": "Utilities",
